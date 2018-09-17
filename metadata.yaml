@@ -1,5 +1,5 @@
 _repo: Cease-firing_52154
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wyeth, N. C. (Newell Convers)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 52154-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnston, Mary
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52154#Cease-firing
 gutenberg_issued: '2016-05-24'
 gutenberg_type: Text
 identifiers:
